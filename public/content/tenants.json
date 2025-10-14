@@ -6,7 +6,7 @@
     "phone": "224 444 333",
     "website": "www.moneta.cz",
     "floor": "Přízemí",
-    "logoUrl": "https://raw.githubusercontent.com/janik-technika/dk-zlin/main/public/content/uploads/tenants/1760445226528-7f8047283f1a5bb1a1365390648d0784.jpg",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_f01cf9b32638496da77820a1c2bbc89e~mv2.jpg",
     "displayOrder": 1
   },
   {
@@ -261,14 +261,14 @@
     "displayOrder": 26
   },
   {
-    "id": "1760445674573-nxicp1d3q",
-    "name": "test",
-    "type": "test",
-    "phone": "test",
-    "website": "test",
-    "website2": "test",
+    "id": "1760446430674-26s86l8jk",
+    "name": "test2",
+    "type": "test2",
+    "phone": "",
+    "website": "",
+    "website2": "",
     "floor": "2. nadzemní patro",
-    "logoUrl": "https://raw.githubusercontent.com/janik-technika/dk-zlin/main/public/content/uploads/tenants/1760445689600-7f8047283f1a5bb1a1365390648d0784.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/janik-technika/dk-zlin/main/public/content/uploads/tenants/1760446438314-7f8047283f1a5bb1a1365390648d0784.jpg",
     "displayOrder": 26
   }
 ]
