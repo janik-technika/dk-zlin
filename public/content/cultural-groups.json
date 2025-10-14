@@ -1,0 +1,58 @@
+[
+  {
+    "id": "group-1",
+    "name": "Medilkovi",
+    "description": "Hudební soubor",
+    "phone": "777 283 877",
+    "website": "www.medilkovi.cz",
+    "displayOrder": 1
+  },
+  {
+    "id": "group-2",
+    "name": "Vonicka",
+    "description": "Kulturní aktivita",
+    "phone": "605 732 726",
+    "website": "www.vonicka.eu",
+    "displayOrder": 2
+  },
+  {
+    "id": "group-3",
+    "name": "SDOM",
+    "description": "Společenská organizace",
+    "phone": "603 470 765",
+    "website": "www.sdom.cz",
+    "displayOrder": 3
+  },
+  {
+    "id": "group-4",
+    "name": "Zlínská cimbálová muzika",
+    "description": "Tradiční moravská hudba",
+    "phone": "604 749 403",
+    "website": "",
+    "displayOrder": 4
+  },
+  {
+    "id": "group-5",
+    "name": "Svaz českých filatelistů Zlín",
+    "description": "Filatelistický spolek",
+    "phone": "",
+    "website": "www.informace-scf.cz",
+    "displayOrder": 5
+  },
+  {
+    "id": "group-6",
+    "name": "Divadlo Opona",
+    "description": "Divadelní soubor",
+    "phone": "",
+    "website": "www.opona.wbs.cz",
+    "displayOrder": 6
+  },
+  {
+    "id": "1760446360463-71oxivzoq",
+    "name": "test",
+    "description": "test",
+    "phone": "test",
+    "website": "test",
+    "displayOrder": 6
+  }
+]
