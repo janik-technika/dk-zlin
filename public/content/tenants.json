@@ -1,0 +1,263 @@
+[
+  {
+    "id": "tenant-1",
+    "name": "MONETA Money Bank",
+    "type": "",
+    "phone": "224 444 333",
+    "website": "www.moneta.cz",
+    "floor": "Přízemí",
+    "logoUrl": "https://raw.githubusercontent.com/janik-technika/dk-zlin/main/public/content/uploads/tenants/1760445064030-EMavif.avif",
+    "displayOrder": 1
+  },
+  {
+    "id": "tenant-2",
+    "name": "Řeznictví a lahůdkářství",
+    "type": "",
+    "phone": "733 160 287",
+    "website": "www.matula-reznictvi.cz",
+    "floor": "Přízemí",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_a3ff198652f040c78cf1620f806277f0~mv2.png",
+    "displayOrder": 2
+  },
+  {
+    "id": "tenant-3",
+    "name": "Sázková kancelář",
+    "type": "",
+    "phone": "601 313 259",
+    "website": "www.chance.cz",
+    "floor": "Přízemí",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_2bf3ec9373b44328aeaf53c589c5b192~mv2.jpg",
+    "displayOrder": 3
+  },
+  {
+    "id": "tenant-4",
+    "name": "Restaurace a diskotéka",
+    "type": "",
+    "phone": "577 210 028",
+    "website": "www.starclub-flip.cz",
+    "floor": "Přízemí",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_4bb719a4818542a48a18a751675b592a~mv2.jpg",
+    "displayOrder": 4
+  },
+  {
+    "id": "tenant-5",
+    "name": "Pekařství",
+    "type": "",
+    "phone": "725 136 849",
+    "website": "www.pekarstvijavor.cz",
+    "floor": "Přízemí",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_34d60130e8784adba969713cc3aa4cb2~mv2.png",
+    "displayOrder": 5
+  },
+  {
+    "id": "tenant-6",
+    "name": "Restaurace",
+    "type": "",
+    "phone": "573 776 573",
+    "website": "www.canadapub.cz",
+    "floor": "Přízemí",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_c5ea32be975a4c07a24b64e7ac9cfece~mv2.png",
+    "displayOrder": 6
+  },
+  {
+    "id": "tenant-7",
+    "name": "KEBAB Katri",
+    "type": "rychlé občerstvení",
+    "phone": "",
+    "website": "",
+    "floor": "Přízemí",
+    "logoUrl": "",
+    "displayOrder": 7
+  },
+  {
+    "id": "tenant-8",
+    "name": "Kadeřnictví - DELA",
+    "type": "",
+    "phone": "605 540 183",
+    "website": "www.kadernictvi-dela-zlin.webnode.cz",
+    "floor": "Přízemí",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_03b7c109fa694970a7d63e2b8f93a76b~mv2.jpg",
+    "displayOrder": 8
+  },
+  {
+    "id": "tenant-9",
+    "name": "Nenuda",
+    "type": "",
+    "phone": "777 779 027",
+    "website": "www.nenuda.eu",
+    "floor": "1. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_d162806b90e848248192893c6cc091c2~mv2.png",
+    "displayOrder": 9
+  },
+  {
+    "id": "tenant-10",
+    "name": "Medilkovi",
+    "type": "",
+    "phone": "777 283 877",
+    "website": "www.medilkovi.cz",
+    "floor": "1. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_f69d81d4cbeb440a86814818743b64cc~mv2.jpg",
+    "displayOrder": 10
+  },
+  {
+    "id": "tenant-11",
+    "name": "Centrum pro zdravotně postižené Zlínského kraje",
+    "type": "",
+    "phone": "575 570 600",
+    "website": "www.czp-zk.cz",
+    "floor": "1. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_8681cbf2ca55470bad3fe28e3b8faed2~mv2.png",
+    "displayOrder": 11
+  },
+  {
+    "id": "tenant-12",
+    "name": "Pedikúra Andrea",
+    "type": "",
+    "phone": "731 581 887",
+    "website": "www.pedikuraandrea.webnode.cz",
+    "floor": "1. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_aa11613802f54cfa88e764d793d4b675~mv2.png",
+    "displayOrder": 12
+  },
+  {
+    "id": "tenant-13",
+    "name": "iDance Studio",
+    "type": "",
+    "phone": "",
+    "website": "www.idancestudio.cz",
+    "floor": "1. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_fe570a5ee53b4d2a90672c0be2a8b215~mv2.jpg",
+    "displayOrder": 13
+  },
+  {
+    "id": "tenant-14",
+    "name": "ČMKOS",
+    "type": "",
+    "phone": "",
+    "website": "www.cmkos.cz",
+    "floor": "1. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_a356602c4a4c489f962ec5750c35a260~mv2.gif",
+    "displayOrder": 14
+  },
+  {
+    "id": "tenant-15",
+    "name": "MŠ, ZŠ a SŠ pro sluchově postižené",
+    "type": "",
+    "phone": "778 404 565",
+    "website": "",
+    "floor": "1. nadzemní patro",
+    "logoUrl": "",
+    "displayOrder": 15
+  },
+  {
+    "id": "tenant-16",
+    "name": "Contours",
+    "type": "",
+    "phone": "773 181 310",
+    "website": "www.contours.cz",
+    "floor": "2. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_4f2546829cce4e899a8b02c260431a98~mv2.png",
+    "displayOrder": 16
+  },
+  {
+    "id": "tenant-17",
+    "name": "ČSSD",
+    "type": "",
+    "phone": "725 810 887",
+    "website": "www.cssd-zlinsko.cz",
+    "website2": "www.cssd-zlinskykraj.cz",
+    "floor": "2. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_518f26a0c6234ba5a18e380fde93ab8c~mv2.jpg",
+    "displayOrder": 17
+  },
+  {
+    "id": "tenant-18",
+    "name": "Senioři ČR",
+    "type": "",
+    "phone": "",
+    "website": "www.senioricr.cz",
+    "floor": "2. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_1ddc1fbf3624479ea46603581a12d77e~mv2.jpg",
+    "displayOrder": 18
+  },
+  {
+    "id": "tenant-19",
+    "name": "Thaibox Zlín",
+    "type": "",
+    "phone": "605 766 584",
+    "website": "www.thaiboxzlin.cz",
+    "floor": "2. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_ac295abba24a49839deb03196e2e8bb9~mv2.jpg",
+    "displayOrder": 19
+  },
+  {
+    "id": "tenant-20",
+    "name": "Expowin",
+    "type": "",
+    "phone": "810 222 777",
+    "website": "www.expowin.cz",
+    "floor": "2. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_268cc1b0e2b547dbaa1c5c9858e3e1d2~mv2.png",
+    "displayOrder": 20
+  },
+  {
+    "id": "tenant-21",
+    "name": "Muzihračky",
+    "type": "",
+    "phone": "605 451 605",
+    "website": "www.muzihratky.cz",
+    "floor": "2. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_8199e84b4fc14704aa3439328919ba70~mv2.png",
+    "displayOrder": 21
+  },
+  {
+    "id": "tenant-22",
+    "name": "OSKOVO",
+    "type": "",
+    "phone": "602 204 787",
+    "website": "www.oskovo.cz",
+    "floor": "2. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_5bb87163a2da42e3ab1adf0ac7c89c7d~mv2.jpg",
+    "displayOrder": 22
+  },
+  {
+    "id": "tenant-23",
+    "name": "PHD MEDIA GROUP",
+    "type": "",
+    "phone": "",
+    "website": "",
+    "floor": "2. nadzemní patro",
+    "logoUrl": "",
+    "displayOrder": 23
+  },
+  {
+    "id": "tenant-24",
+    "name": "Oriana Dance",
+    "type": "",
+    "phone": "739 092 357",
+    "website": "www.orianadance.cz",
+    "floor": "2. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_dd72d40636c140d18d0c0631fd17fcd5~mv2.jpg",
+    "displayOrder": 24
+  },
+  {
+    "id": "tenant-25",
+    "name": "Via Natura",
+    "type": "",
+    "phone": "737 532 105",
+    "website": "www.vianaturazlin.cz",
+    "floor": "2. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_050510e7b5454b24ba6cc162fcbbbc88~mv2.jpg",
+    "displayOrder": 25
+  },
+  {
+    "id": "tenant-26",
+    "name": "ZUŠ Morava",
+    "type": "",
+    "phone": "577 018 897",
+    "website": "www.zusmoravazlin.cz",
+    "floor": "3. nadzemní patro",
+    "logoUrl": "https://static.wixstatic.com/media/1313ce_2d6fc36f2c30455a91e9fb08d9e065cb~mv2.png",
+    "displayOrder": 26
+  }
+]
