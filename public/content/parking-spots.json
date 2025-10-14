@@ -1,6 +1,6 @@
 [
   {
     "id": "parking-status",
-    "available": true
+    "available": false
   }
 ]
