@@ -259,5 +259,16 @@
     "floor": "3. nadzemní patro",
     "logoUrl": "https://static.wixstatic.com/media/1313ce_2d6fc36f2c30455a91e9fb08d9e065cb~mv2.png",
     "displayOrder": 26
+  },
+  {
+    "id": "1760445674573-nxicp1d3q",
+    "name": "test",
+    "type": "test",
+    "phone": "test",
+    "website": "test",
+    "website2": "test",
+    "floor": "2. nadzemní patro",
+    "logoUrl": "https://raw.githubusercontent.com/janik-technika/dk-zlin/main/public/content/uploads/tenants/1760445689600-7f8047283f1a5bb1a1365390648d0784.jpg",
+    "displayOrder": 26
   }
 ]
