@@ -9,7 +9,7 @@
   },
   {
     "id": "group-2",
-    "name": "Vonicka",
+    "name": "Vonička",
     "description": "Kulturní aktivita",
     "phone": "605 732 726",
     "website": "www.vonicka.eu",
@@ -18,7 +18,7 @@
   {
     "id": "group-3",
     "name": "SDOM",
-    "description": "Společenská organizace",
+    "description": "hudební škola",
     "phone": "603 470 765",
     "website": "www.sdom.cz",
     "displayOrder": 3
