@@ -70,18 +70,8 @@
     "displayOrder": 8
   },
   {
-    "id": "tenant-9",
-    "name": "Nenuda",
-    "type": "",
-    "phone": "777 779 027",
-    "website": "www.nenuda.eu",
-    "floor": "1. nadzemní patro",
-    "logoUrl": "https://static.wixstatic.com/media/1313ce_d162806b90e848248192893c6cc091c2~mv2.png",
-    "displayOrder": 9
-  },
-  {
     "id": "tenant-10",
-    "name": "Medilkovi",
+    "name": "Mědílkovi",
     "type": "",
     "phone": "777 283 877",
     "website": "www.medilkovi.cz",
@@ -128,16 +118,6 @@
     "floor": "1. nadzemní patro",
     "logoUrl": "https://static.wixstatic.com/media/1313ce_a356602c4a4c489f962ec5750c35a260~mv2.gif",
     "displayOrder": 14
-  },
-  {
-    "id": "tenant-15",
-    "name": "MŠ, ZŠ a SŠ pro sluchově postižené",
-    "type": "",
-    "phone": "778 404 565",
-    "website": "",
-    "floor": "1. nadzemní patro",
-    "logoUrl": "",
-    "displayOrder": 15
   },
   {
     "id": "tenant-16",
@@ -192,7 +172,7 @@
   },
   {
     "id": "tenant-21",
-    "name": "Muzihračky",
+    "name": "Muzihrátky",
     "type": "",
     "phone": "605 451 605",
     "website": "www.muzihratky.cz",
