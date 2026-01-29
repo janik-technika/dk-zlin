@@ -20,16 +20,6 @@
     "displayOrder": 2
   },
   {
-    "id": "tenant-3",
-    "name": "Sázková kancelář",
-    "type": "",
-    "phone": "601 313 259",
-    "website": "www.chance.cz",
-    "floor": "Přízemí",
-    "logoUrl": "https://static.wixstatic.com/media/1313ce_2bf3ec9373b44328aeaf53c589c5b192~mv2.jpg",
-    "displayOrder": 3
-  },
-  {
     "id": "tenant-4",
     "name": "Restaurace a diskotéka",
     "type": "",
