@@ -1,0 +1,113 @@
+[
+  {
+    "id": "tanecni-sal",
+    "title": "Taneční sál",
+    "floor": "1. nadzemní patro",
+    "area": "255 m²",
+    "capacity": "150 - 200 lidí, dle uspořádání",
+    "features": [
+      "součástí sálu je pódium a klavír",
+      "možnost ozvučení",
+      "k dispozici plátno, tabule",
+      "wifi",
+      "pronájem pouze v dopoledních hodinách a na školící akce"
+    ],
+    "images": [
+      "/images/tanecni-sal.jpg"
+    ],
+    "note": "Pronájem pouze v dopoledních hodinách a na školící akce",
+    "displayOrder": 0
+  },
+  {
+    "id": "salonek",
+    "title": "Salonek",
+    "floor": "1. nadzemní patro",
+    "area": "64 m²",
+    "capacity": "do 30 lidí, dle uspořádání",
+    "features": [
+      "k dispozici plátno, tabule",
+      "součástí salonku je i kuchyňka",
+      "wifi"
+    ],
+    "images": [
+      "/images/salonek-1.jpg",
+      "/images/salonek-2.jpg"
+    ],
+    "displayOrder": 1
+  },
+  {
+    "id": "mistnost-329",
+    "title": "Míst. č. 329",
+    "floor": "1. nadzemní patro",
+    "area": "40 m²",
+    "capacity": "22 lidí",
+    "features": [
+      "k dispozici plátno, tabule",
+      "wifi"
+    ],
+    "images": [
+      "/images/mistnost-329-real.jpg"
+    ],
+    "displayOrder": 2
+  },
+  {
+    "id": "telocvicna-227",
+    "title": "Tělocvična č. 227",
+    "floor": "1. nadzemní patro",
+    "area": "76 m²",
+    "capacity": "vhodná pro sportovní aktivity",
+    "features": [
+      "povrch lino",
+      "sportovní vybavení"
+    ],
+    "images": [
+      "/images/telocvicna-227-foto1.jpg",
+      "/images/telocvicna-227-foto2.jpg"
+    ],
+    "displayOrder": 3
+  },
+  {
+    "id": "telocvicna-325",
+    "title": "Tělocvična č. 325",
+    "floor": "2. nadzemní patro",
+    "area": "107 m²",
+    "capacity": "větší prostory pro cvičení",
+    "features": [
+      "k dispozici šatna",
+      "součástí tělocvičny je i klavír a zrcadlová stěna"
+    ],
+    "images": [
+      "/images/telocvicna-325-foto1.jpg",
+      "/images/telocvicna-325-foto2.jpg"
+    ],
+    "displayOrder": 4
+  },
+  {
+    "id": "telocvicna-307",
+    "title": "Tělocvična č. 307",
+    "floor": "2. nadzemní patro",
+    "area": "75 m²",
+    "capacity": "relaxační cvičení",
+    "features": [
+      "povrch - koberec",
+      "k dispozici klavír",
+      "zrcadlová stěna",
+      "vhodná pro relaxační cvičení"
+    ],
+    "images": [
+      "/images/telocvicna-307-real.jpg"
+    ],
+    "displayOrder": 5
+  },
+  {
+    "id": "1773404702066-f1pee94lf",
+    "title": "test",
+    "floor": "test",
+    "area": "",
+    "capacity": "",
+    "features": [],
+    "images": [],
+    "note": "",
+    "displayOrder": 6
+  }
+]
