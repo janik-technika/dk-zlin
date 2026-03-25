@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mistnost-159",
+    "title": "Místnost č. 159",
+    "floor": "Přízemí - vchod z venku budovy",
+    "area": "38 m²",
+    "images": [
+      "https://static.wixstatic.com/media/1313ce_838e67cec424494697c2b0bcacd7168c~mv2.jpg",
+      "https://static.wixstatic.com/media/1313ce_194c804efd494f15a22546b8b4c79a10~mv2.jpg",
+      "https://static.wixstatic.com/media/1313ce_52081634578a49dbb4209cc8dd6283a5~mv2.jpg"
+    ],
+    "displayOrder": 0
+  },
+  {
+    "id": "kancelar-326",
+    "title": "Kancelář č. 326",
+    "floor": "2. nadzemní patro",
+    "area": "24,33 m²",
+    "images": [
+      "https://static.wixstatic.com/media/1313ce_c3d285d2a2304200af9a6dd88b96ed03~mv2.jpg"
+    ],
+    "displayOrder": 1
+  },
+  {
+    "id": "1774430371499-yzzktymy2",
+    "title": "Místnost č. 21",
+    "floor": "2. nadzemní patro",
+    "area": "",
+    "images": [
+      "https://raw.githubusercontent.com/janik-technika/dk-zlin/main/public/content/uploads/long-term/1774430518980-IMG_1998jpg.jpg",
+      "https://raw.githubusercontent.com/janik-technika/dk-zlin/main/public/content/uploads/long-term/1774430526448-IMG_1999jpg.jpg",
+      "https://raw.githubusercontent.com/janik-technika/dk-zlin/main/public/content/uploads/long-term/1774430536315-IMG_2001jpg.jpg"
+    ],
+    "description": "Kancelářské prostory, ordinace, služby, obchod, skladové prostory",
+    "displayOrder": 1
+  }
+]
