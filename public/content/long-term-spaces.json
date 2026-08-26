@@ -13,16 +13,6 @@
     "displayOrder": 0
   },
   {
-    "id": "kancelar-326",
-    "title": "Kancelář č. 326",
-    "floor": "2. nadzemní patro",
-    "area": "24,33 m²",
-    "images": [
-      "https://static.wixstatic.com/media/1313ce_c3d285d2a2304200af9a6dd88b96ed03~mv2.jpg"
-    ],
-    "displayOrder": 2
-  },
-  {
     "id": "mistnost-159",
     "title": "Místnost č. 159",
     "floor": "Přízemí - vchod z venku budovy",
