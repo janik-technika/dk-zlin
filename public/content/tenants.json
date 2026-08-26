@@ -111,12 +111,12 @@
   },
   {
     "id": "tenant-14",
-    "name": "ČMKOS",
+    "name": "DOTEK-Masáže",
     "type": "",
     "phone": "",
-    "website": "www.cmkos.cz",
+    "website": "www.dotekmasazezlin.cz ",
     "floor": "1. nadzemní patro",
-    "logoUrl": "https://static.wixstatic.com/media/1313ce_a356602c4a4c489f962ec5750c35a260~mv2.gif",
+    "logoUrl": "https://raw.githubusercontent.com/janik-technika/dk-zlin/main/public/content/uploads/tenants/1787734941076-logo1jfif.jfif",
     "displayOrder": 14
   },
   {
