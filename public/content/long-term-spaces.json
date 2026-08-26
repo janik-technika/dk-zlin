@@ -11,17 +11,5 @@
     ],
     "description": "Kancelářské prostory, ordinace, služby, obchod, skladové prostory",
     "displayOrder": 0
-  },
-  {
-    "id": "mistnost-159",
-    "title": "Místnost č. 159",
-    "floor": "Přízemí - vchod z venku budovy",
-    "area": "38 m²",
-    "images": [
-      "https://static.wixstatic.com/media/1313ce_838e67cec424494697c2b0bcacd7168c~mv2.jpg",
-      "https://static.wixstatic.com/media/1313ce_194c804efd494f15a22546b8b4c79a10~mv2.jpg",
-      "https://static.wixstatic.com/media/1313ce_52081634578a49dbb4209cc8dd6283a5~mv2.jpg"
-    ],
-    "displayOrder": 3
   }
 ]
