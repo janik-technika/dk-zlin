@@ -51,22 +51,6 @@
     "displayOrder": 2
   },
   {
-    "id": "telocvicna-227",
-    "title": "Tělocvična č. 227",
-    "floor": "1. nadzemní patro",
-    "area": "76 m²",
-    "capacity": "vhodná pro sportovní aktivity",
-    "features": [
-      "povrch lino",
-      "sportovní vybavení"
-    ],
-    "images": [
-      "/images/telocvicna-227-foto1.jpg",
-      "/images/telocvicna-227-foto2.jpg"
-    ],
-    "displayOrder": 3
-  },
-  {
     "id": "telocvicna-325",
     "title": "Tělocvična č. 325",
     "floor": "2. nadzemní patro",
