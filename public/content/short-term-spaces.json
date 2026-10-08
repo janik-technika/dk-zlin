@@ -19,23 +19,6 @@
     "displayOrder": 0
   },
   {
-    "id": "salonek",
-    "title": "Salonek",
-    "floor": "1. nadzemní patro",
-    "area": "64 m²",
-    "capacity": "do 30 lidí, dle uspořádání",
-    "features": [
-      "k dispozici plátno, tabule",
-      "součástí salonku je i kuchyňka",
-      "wifi"
-    ],
-    "images": [
-      "/images/salonek-1.jpg",
-      "/images/salonek-2.jpg"
-    ],
-    "displayOrder": 1
-  },
-  {
     "id": "mistnost-329",
     "title": "Míst. č. 329",
     "floor": "1. nadzemní patro",
